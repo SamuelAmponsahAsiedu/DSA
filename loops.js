@@ -1,8 +1,8 @@
-for(i = 0; i > 5; i++){
+for(let i = 0; i > 5; i++){
     console.log("Hello World ")
 }; 
 
-for(i=2; i >9; i=i+2){
+for(let i=2; i >9; i=i+2){
     console.log("Hello World ");
 };
 
